@@ -14,6 +14,8 @@
   - or inside the `Quick Actions` 
 - Press `⌘ V` to paste `/Mac HD/Desktop/Awesome novel.txt`.
 
+<img src="images/usage_illustration_2023-12-28.png" width="50%">
+
 ## How to Install
 
 1. Download the `Copy File URI` service from the `Releases` to your home’s library (`~/Library/Services/`).
